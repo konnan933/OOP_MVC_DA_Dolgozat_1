@@ -1,0 +1,22 @@
+{
+  "autok": [
+    {
+      "id": 1,
+      "marka": "Mercedes",
+      "loero": 150,
+      "dbSzam": 40
+    },
+    {
+      "id": 2,
+      "marka": "BMV",
+      "loero": 100,
+      "dbSzam": 20
+    },
+    {
+      "id": 3,
+      "marka": "Volvo",
+      "loero": 120,
+      "dbSzam": 30
+    }
+  ]
+}
